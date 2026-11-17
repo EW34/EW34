@@ -1,6 +1,6 @@
 # EllaW34
 
-Ella Weathers
+Gabe Weathers
 
 Student at Northeastern University
 
